@@ -8,7 +8,9 @@
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjiri-gujar/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manjirigujar)
-
+<a href="mailto:manjirigujar@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
 ### Medium Blogs:
 [![Manjiri's Medium](https://github-readme-medium.vercel.app/?username=manjirigujar&limit=3)](https://medium.com/@manjirigujar)
