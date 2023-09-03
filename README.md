@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Manjiri
 
 ### ⚡️ A quick introduction:
-- 🔭 I'm a Data Scientist student. I'm passionate about using data to drive insights and inform decision-making
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on Data Science projects and open to freelancing
+- 🔭 I'm a Data Scientist and passionate about using data to derive insights and help in informed decision-making
+- 👯 I’m look forward to collaborate on Data Science projects and open to freelancing
 
 
 ### 📫 How to reach me:
