@@ -16,11 +16,7 @@
 
 
 ### Languages / Frameworks / Tools:
-<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> <img style="padding:5px;" align="center" alt="Tableau" width="100px" src="https://camo.githubusercontent.com/b0a6d5a5a6b2b19612978ff167c112ad788d7ddf3f014e2375399e3f4f8f82c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465">
 
 
 <!--
