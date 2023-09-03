@@ -12,12 +12,38 @@
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 
+
+### Programming Languages / Frameworks: 
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/UNIX-172B4D?style=for-the-badge&logo=unix&logoColor=white" alt="Unix" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9E64?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-F58A77?style=for-the-badge" alt="Natural Language Processing" />
+<img src="https://img.shields.io/badge/Time%20Series%20Analysis-00D4FF?style=for-the-badge" alt="Time Series Analysis" />
+</div>
+
+### Databases: 
+<div align="left">
+<img src="https://img.shields.io/badge/MySQL-217346?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+### Data Visualization Tools: 
+<div align="left">
+<img src="https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Power%20BI-276DC3?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+</div>
+
+### ETL Tools: 
+<div align="left">
+<img src="https://img.shields.io/badge/Talend-3776AB?style=for-the-badge&logo=talend&logoColor=white" alt="Talend" />
+</div>
+
+
 ### Medium Blogs:
 [![Manjiri's Medium](https://github-readme-medium.vercel.app/?username=manjirigujar&limit=3)](https://medium.com/@manjirigujar)
 
-
-### Languages / Frameworks / Tools:
-<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> <img style="padding:5px;" align="center" alt="Tableau" width="100px" src="https://camo.githubusercontent.com/b0a6d5a5a6b2b19612978ff167c112ad788d7ddf3f014e2375399e3f4f8f82c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465">
 
 
 <!--
