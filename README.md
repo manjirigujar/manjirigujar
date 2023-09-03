@@ -44,6 +44,10 @@
 ### Medium Blogs:
 [![Manjiri's Medium](https://github-readme-medium.vercel.app/?username=manjirigujar&limit=3)](https://medium.com/@manjirigujar)
 
+### Checkout My Visualization Work:
+<a href="https://public.tableau.com/app/profile/manjiri.gujar">
+<img src="https://img.shields.io/badge/My%20Tableau%20Dashboards-EA4335?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Dashboards" />
+</a>
 
 
 <!--
