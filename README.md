@@ -1,8 +1,11 @@
+<img src="https://github.com/manjirigujar/manjirigujar/blob/4659297921f98aed5836e75e6c2d4ac31344c2c1/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif" alt="Data Scientist" width="400" align="right">
+
 ### Hi there 👋, I'm Manjiri
 
 ### ⚡️ A quick introduction:
 - 🔭 I'm a Data Scientist and passionate about using data to derive insights and help in informed decision-making
 - 👯 I’m look forward to collaborate on Data Science projects and open to freelancing
+  
 
 
 ### 📫 How to reach me:
